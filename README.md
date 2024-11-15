@@ -1,4 +1,4 @@
-# C lad codes
+# C lab codes
 Name :
 UIN  :
 Div  :
