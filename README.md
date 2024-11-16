@@ -5,5 +5,6 @@ Div  : D
 
      - Experment1 task1 : Print basic details
      - Experment1 task2 : PCM % & average
-
+     - Experment2 task1 : Find number is even or odd
+     - Experment2 task2 : Find the sum of all odd numbers
   
