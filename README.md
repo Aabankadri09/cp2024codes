@@ -10,4 +10,6 @@ Div  : D
      - Experiment3 task1   : Menu Drives Calculator
      - Experiment4 task1   : Find prime numbers between two numbers 
      - Experiment5 task1&2 : Find factorial recursive and iterative
-     - Experiment6 task1   : Print how many times the function is called  
+     - Experiment6 task1   : Print how many times the function is called
+     - Experiment7 task1   : Find Largest element in an array
+     - Experiment7 task2   : Find calculate sum of two matrix
