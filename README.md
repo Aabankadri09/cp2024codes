@@ -3,9 +3,10 @@ Name : Mohammed Aaban Javid Kadri
 UIN  : 241P120
 Div  : D
 
-     - Experment1 task1 : Print basic details
-     - Experment1 task2 : PCM % & average
-     - Experment2 task1 : Find number is even or odd
-     - Experment2 task2 : Find the sum of all odd numbers
-     - Experment3 task1 : Menu Drives Calculator
+     - Experiment1 task1 : Print basic details
+     - Experiment1 task2 : PCM % & average
+     - Experiment2 task1 : Find number is even or odd
+     - Experiment2 task2 : Find the sum of all odd numbers
+     - Experiment3 task1 : Menu Drives Calculator
+     - Experiment4 task1 : Find prime numbers between two numbers 
   
