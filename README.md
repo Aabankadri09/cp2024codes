@@ -12,4 +12,6 @@ Div  : D
      - Experiment5 task1&2 : Find factorial recursive and iterative
      - Experiment6 task1   : Print how many times the function is called
      - Experiment7 task1   : Find Largest element in an array
-     - Experiment7 task2   : Find calculate sum of two matrix
+     - Experiment7 task2   : Find to add two square matrix
+     - Experiment8 task1   : Find the length of a string without using library function
+     - Experiment8 task2   : Find the string is palindrome or not
