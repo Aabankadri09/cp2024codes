@@ -16,3 +16,6 @@ Div  : D
      - Experiment8 task1   : Find the length of a string without using library function
      - Experiment8 task2   : Find the string is palindrome or not
      - Experiment9 task1   : To read 5 student data from the user and then display the topper on the screen 
+     - Experiment10 task1  : WAP to add two numbers using pointers
+     - Experiment10 task2  : WAP to  print the elements of an array in reverse order using pointers
+
